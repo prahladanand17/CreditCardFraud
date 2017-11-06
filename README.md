@@ -16,3 +16,5 @@ Now I set up the Neural Net. After splitting the data, I used MLP classifier (Mu
 
 Imported Data from Kaggle Credit Card Fraud Detection Kernel. 
 Credit for the data Goes to: Andrea Dal Pozzolo, Olivier Caelen, Reid A. Johnson and Gianluca Bontempi. Calibrating Probability with Undersampling for Unbalanced Classification. In Symposium on Computational Intelligence and Data Mining (CIDM), IEEE, 2015
+
+The dataset has been collected and analysed during a research collaboration of Worldline and the Machine Learning Group (http://mlg.ulb.ac.be/)
