@@ -13,7 +13,7 @@ get_ipython().magic('matplotlib inline')
 
 #Importing Data
 
-data = pd.read_csv('/Users/anprahlad/Desktop/MachineLearning/CreditCardFraud/creditcard.csv')
+data = pd.read_csv('.../input/creditcard.csv')
 data.head()
 
 
